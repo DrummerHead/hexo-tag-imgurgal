@@ -1,0 +1,26 @@
+{
+  "name": "hexo-tag-imgurgal",
+  "version": "1.0.0",
+  "description": "Hexo Imgur gallery tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrummerHead/hexo-tag-imgurgal.git"
+  },
+  "keywords": [
+    "hexo",
+    "blog",
+    "imgur",
+    "embed",
+    "gallery"
+  ],
+  "author": "DrummerHead <drummerhead@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrummerHead/hexo-tag-imgurgal/issues"
+  },
+  "homepage": "https://github.com/DrummerHead/hexo-tag-imgurgal#readme"
+}
